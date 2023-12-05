@@ -22,11 +22,11 @@ and Decision Tree with an accuracy of 0.87. Logistic Tegression had the lowest a
 ![image](https://github.com/royal317/Credit-Risk/assets/152999544/0d55e07d-eb31-43fd-a170-00166da00282)
 
 Model development direction :
--- Incorporating more data sources: Credit risk models can benefit from additional data
+- Incorporating more data sources: Credit risk models can benefit from additional data
 sources beyond traditional financial data. Alternative data sources such as social media,
 web search trends, and satellite imagery can provide additional insights into a borrower's
 creditworthiness.
--- Exploring new modeling techniques: Advanced modeling techniques such as deep
+- Exploring new modeling techniques: Advanced modeling techniques such as deep
 learning, neural networks, and ensemble methods can improve the accuracy of credit risk
 models. These techniques can handle non-linear relationships between variables and
 capture more complex patterns in the data.
